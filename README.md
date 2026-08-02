@@ -24,8 +24,6 @@ The Technical Writing & Docs Price Comparison and Deal Finder Chrome Extension i
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/jqgjck)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/28EcN57r14scg886fycZu2V)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/jqgjck)
 
 ## License
 
